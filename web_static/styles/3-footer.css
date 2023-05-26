@@ -14,5 +14,5 @@ footer{
     display: flex;                      
     justify-content: center;
     position:absolute;
-    border-top:  1px #CCCCCC
+    border-top:  1px solid #CCCCCC
 }
